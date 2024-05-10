@@ -34,9 +34,9 @@ header {
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   min-width: 200px;
   min-height: 200px;
-  max-width: 50%; /* Largura máxima */
-  margin-left: auto; /* Centraliza horizontalmente */
-  margin-right: auto; /* Centraliza horizontalmente */
+  max-width: 50%; /* largura maxima */
+  margin-left: auto; /* centraliza verticalmente */
+  margin-right: auto; /* centraliza horizontalmente */
 }
 
 form {

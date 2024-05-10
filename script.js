@@ -1,3 +1,4 @@
+// Criei basicamente um switch, para que possa trocar o contéudo dando aspecto de single page
 function showContent(content) {
   let code;
   switch (content) {
